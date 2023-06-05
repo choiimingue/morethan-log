@@ -4,7 +4,7 @@ const CONFIG = {
     name: "최민규(choiimingue)",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "data/product manager",
-    bio: "I create warm plans for the Earth based on data-driven and rational thinking.",
+    bio: "I create warm plans for the Earth based on data-driven and cold rational thinking.",
     email: "akaminq@gmail.com",
     linkedin: "",
     github: "choiimingue",
